@@ -74,12 +74,6 @@ Outils d'edition préférés : Visual Studio Code.
 
 ## 🌐 Reseaux 
 
-Instagram : https://www.instagram.com/ethan_frq/
-
-TikTok : https://www.tiktok.com/@ethan_frq
-
-Discord Pseudo : cfx.mcdo
-
 Discord Devellopement : https://discord.gg/P2XC3yfm
 
 GitHub : https://github.com/ethanfrq/
