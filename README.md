@@ -74,9 +74,7 @@ Outils d'edition préférés : Visual Studio Code.
 
 ## 🌐 Reseaux 
 
-Discord Devellopement : https://discord.gg/P2XC3yfm
-
 GitHub : https://github.com/ethanfrq/
 
-## 👨‍💻 Entreprise : **VOOT Group** 
+## 👨‍💻 Entreprise : **AXIORNET** 
 
