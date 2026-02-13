@@ -1,80 +1,47 @@
-### Hi there 👋
+# Salut ! Moi c'est Ethan 👋
 
-## Ethan_frq
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ethanfrq&label=Profil%20vues&color=0e75b6&style=flat-square" alt="ethanfrq" />
+</p>
 
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=ethanfrq&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ethanfrq"/> 
-  </p>
+---
 
-👨‍💻 Passionné de développement.
+### 👨‍💻 À propos de moi
 
-🌐 Explorateur du monde du code et createur de projets.
+Passionné par le développement et la création de projets innovants, j'explore sans cesse de nouvelles technologies pour repousser mes limites.
 
-🚀 A la recherche de nouvelles façons de s'améliorer.
+* 🚀 **Objectif :** Toujours trouver de nouvelles façons de m'améliorer.
+* 📚 **Focus actuel :** Approfondissement du développement web et architecture logicielle.
+* 🏢 **Entreprise :** Fier membre de l'équipe **AXIORNET**.
 
-📚 Actuellement en train d'explorer les sites web.
+---
 
-Outils d'edition préférés : Visual Studio Code. 
-<table>
-  <tr>
-    <td>
-      <img width="26px" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-    </td>
-    <td>Visual Studio Code</td>
-  </tr>
-</table>
+### 🛠️ Stack Technique
 
-🔧 Languages préférés :
+#### 💻 Outils de prédilection
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<table>
-  <tr>
-    <td>
-      <img width="26px" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
-    </td>
-    <td>HTML</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png">
-    </td>
-    <td>CSS</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="PhP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/512px-PHP-logo.svg.png">
-    </td>
-    <td>PHP</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="Js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png">
-    </td>
-    <td>Js</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="Lua" src="https://static.wikia.nocookie.net/cso/images/0/0f/Lua-logo-nolabel.svg.png/revision/latest?cb=20181201144608">
-    </td>
-    <td>Lua</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/725px-C_Logo.png">
-    </td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>
-      <img width="26px" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png">
-    </td>
-    <td>C ++</td>
-  </tr>
-</table>
+#### ⚡ Langages maîtrisés
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
+---
 
-## 🌐 Reseaux 
+### 🌐 Me retrouver
 
-GitHub : https://github.com/ethanfrq/
+* **GitHub :** [github.com/ethanfrq](https://github.com/ethanfrq/)
+* **Portfolio :** [franqueville-ethan.fr](https://franqueville-ethan.fr)
+* **Site :** [axiornet.com](https://www.axiornet.com)
 
-## 👨‍💻 Entreprise : **AXIORNET** 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanfrq&show_icons=true&theme=tokyonight" alt="Stats de Ethan" />
+</p>
